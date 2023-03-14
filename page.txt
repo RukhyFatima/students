@@ -8,9 +8,9 @@
 </head>
 <body style="background-color: aquamarine;">
     <tr>
-        <td> Name rukh </td> <br>
+        <td> komal</td> <br>
 
-        <td> Registration no</td>s
+        <td> 701</td>s
     </tr>
     
 </body>
